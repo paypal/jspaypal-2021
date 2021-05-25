@@ -25,3 +25,4 @@
 | [Hemanth HM](https://github.com/hemanth)       | [Web can do that!](https://github.com/paypal/jspaypal-2021/raw/main/Hemanth.HM-%20Web%20Can%20Do%20that%3F!.pdf)                                           |
 | [Pranjal Jain](https://github.com/jainpranj)    | [Synergizing the use of gRPC and React](https://github.com/paypal/jspaypal-2021/raw/main/Pranjal-Synergizing-the%20use-of-gRPC-and-react.pptx)             |
 | [Joey Nenni](https://github.com/joeynenni)     | [Sit back and let the graph grow](https://github.com/paypal/jspaypal-2021/raw/main/Joey%20Nenni%20-%20Let%20the%20graph%20grow.pdf)                        |
+| [Holly Stotelmyer](https://github.com/hollabaq86)     | [Things We Learned Releasing Braintree Node 3.0.0](https://github.com/paypal/jspaypal-2021/blob/main/HollyStotelmyer-ThingsWeLearnedUpdatingBraintreeNode.pdf)                        |
